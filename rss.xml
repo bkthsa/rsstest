@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>EnderBK Official Feed</title>
+    <link>https://enderbk.com</link>
+    <description>Latest announcements and updates from EnderBK LLC.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2025 12:00:00 +0700</lastBuildDate>
+
+    <item>
+      <title>🚀 EnderPhone 2 enters final testing</title>
+      <link>https://enderbk.com/posts/enderphone2-testing</link>
+      <description>The EnderPhone 2 is now in final QA with EnderUI 3.1 and Windows dual-boot capabilities.</description>
+      <pubDate>Fri, 19 Jul 2025 10:00:00 +0700</pubDate>
+    </item>
+
+    <item>
+      <title>💻 EnderBook 1 receives performance update</title>
+      <link>https://enderbk.com/posts/enderbook1-performance-patch</link>
+      <description>We're pushing an update to boost battery and AI performance on all EnderBook 1 models.</description>
+      <pubDate>Thu, 18 Jul 2025 17:30:00 +0700</pubDate>
+    </item>
+
+    <item>
+      <title>🧠 EnderAI 3.0 released across devices</title>
+      <link>https://enderbk.com/posts/enderai3-release</link>
+      <description>EnderAI 3.0 rolls out with contextual memory, voice assistant, and faster offline processing.</description>
+      <pubDate>Wed, 17 Jul 2025 09:15:00 +0700</pubDate>
+    </item>
+
+    <item>
+      <title>📱 Foldable Era Begins: EnderFold Teased</title>
+      <link>https://enderbk.com/posts/enderfold-tease</link>
+      <description>A glimpse at the EnderFold – a futuristic foldable with dual-OS mode and glass-like UI.</description>
+      <pubDate>Tue, 16 Jul 2025 14:00:00 +0700</pubDate>
+    </item>
+
+    <item>
+      <title>🎉 EnderBK hits 1M users worldwide</title>
+      <link>https://enderbk.com/posts/1million-users</link>
+      <description>Thanks to our community — we’ve reached 1 million active users across all devices and services!</description>
+      <pubDate>Mon, 15 Jul 2025 08:00:00 +0700</pubDate>
+    </item>
+
+  </channel>
+</rss>
